@@ -4,3 +4,5 @@ first you have to collect the data from the users like(age,blood pressure rate,s
 you have to train the data set then your accurate algorithm works based on given trained data set.
 it uses linear regression algorithm to detect the heart disease affected persons based on the given data in the dataset
 
+here is the process of output for the given datasets in various type of graphs based on the user data:
+
