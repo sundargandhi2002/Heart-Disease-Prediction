@@ -1,0 +1,2 @@
+plt.figure(figsize=(15,15))
+sns.heatmap(df_norm.corr(),cmap=plt.cm.Blues,annot=True)
