@@ -1,0 +1,2 @@
+df_norm_dummies=pd.get_dummies(df_norm)
+df_norm_dummies
