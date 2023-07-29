@@ -4,6 +4,8 @@ first you have to collect the data from the users like(age,blood pressure rate,s
 you have to train the data set then your accurate algorithm works based on given trained data set.
 it uses linear regression algorithm to detect the heart disease affected persons based on the given data in the dataset
 
+project link:https://colab.research.google.com/drive/1dnc5LwvlBIKmKglGabfXWJhJFY5MO5X0#scrollTo=GnN46O4_ywMo
+
 here is the process of output for the given datasets in various type of graphs based on the user data:
 
 ![photo_6221874519488966651_w](https://github.com/sundargandhi2002/Heart-Disease-Prediction/assets/106462792/c44239cb-66ac-4575-afe0-183ba84b7c12)
